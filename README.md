@@ -23,7 +23,7 @@ sudo apt install ansible
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/ansible-docker-deployment.git
+git clone https://github.com/kamranali111/ansible-docker-deployment
 
 **Configuring Inventory**
 Edit the hosts.ini file to specify the target hosts for deployment.
