@@ -1,6 +1,8 @@
+
 ** Automated Docker Deployment with Ansible on Fedora CoreOS **
 
 ** Overview **
+
 This project aims to automate the deployment of Docker containers using Ansible on a Fedora CoreOS environment. By leveraging Ansible playbooks, we streamline the process of deploying and managing Docker containers, enhancing efficiency and reproducibility.
 
 ** Prerequisites **
