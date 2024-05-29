@@ -1,9 +1,9 @@
 ---
 - name: Deploy Docker Containers
-  hosts: fedora_coreos
+  hosts: localhost
+  connection: local
   become: yes
   tasks:
-
     - name: Ensure Docker is installed
       package:
         name: docker
